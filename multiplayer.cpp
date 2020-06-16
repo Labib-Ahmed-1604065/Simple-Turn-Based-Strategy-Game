@@ -326,7 +326,7 @@ void multiplayer::magicp1()
             <<"     ******                                       ******             "<<endl
             <<"     ******                                       ******             "<<endl
             <<"     ******                                       ******             "<<endl;
-        Sleep(10000);
+        Sleep(100);
         system("cls");
         cout<<"                                                                     "<<endl
             <<"       *****                *  *                 *****               "<<endl
@@ -628,7 +628,7 @@ void multiplayer::magicp2()
             <<"     ******                                       ******             "<<endl;
 
 
-        Sleep(10000);
+        Sleep(100);
         system("cls");
         cout<<"                                                                     "<<endl
             <<"       *****                *  *                 *****               "<<endl
