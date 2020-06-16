@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1512982566 source:f:\cpp\a-2-8 almost final\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"main_menu.h"
+	"single_player.h"
+	"multiplayer.h"
+
+1513423339 f:\cpp\a-2-8 almost final\main_menu.h
+
+1513411315 f:\cpp\a-2-8 almost final\single_player.h
+
+1513412046 f:\cpp\a-2-8 almost final\multiplayer.h
+
+1513423641 source:f:\cpp\a-2-8 almost final\main_menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"main_menu.h"
+	"single_player.h"
+	"multiplayer.h"
+	<iostream>
+	<string>
+
+1513423872 source:f:\cpp\a-2-8 almost final\multiplayer.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"multiplayer.h"
+	<iostream>
+	<string>
+
+1513359308 source:f:\cpp\a-2-8 almost final\single_player.cpp
+	"Single_player.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1512986166 source:e:\cpp\a-2-8 almost final\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"main_menu.h"
+	"single_player.h"
+	"multiplayer.h"
+
+1513426939 e:\cpp\a-2-8 almost final\main_menu.h
+
+1513414915 e:\cpp\a-2-8 almost final\single_player.h
+
+1513415646 e:\cpp\a-2-8 almost final\multiplayer.h
+
+1513427241 source:e:\cpp\a-2-8 almost final\main_menu.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"main_menu.h"
+	"single_player.h"
+	"multiplayer.h"
+	<iostream>
+	<string>
+
+1513427472 source:e:\cpp\a-2-8 almost final\multiplayer.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"multiplayer.h"
+	<iostream>
+	<string>
+
+1513362908 source:e:\cpp\a-2-8 almost final\single_player.cpp
+	"Single_player.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1512982566 source:f:\cpp\simple turn based strategy game\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"main_menu.h"
+	"single_player.h"
+	"multiplayer.h"
+
+1513423339 f:\cpp\simple turn based strategy game\main_menu.h
+
+1513411315 f:\cpp\simple turn based strategy game\single_player.h
+
+1513412046 f:\cpp\simple turn based strategy game\multiplayer.h
+
+1592331623 source:f:\cpp\simple turn based strategy game\multiplayer.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"multiplayer.h"
+	<iostream>
+	<string>
+
+1513359308 source:f:\cpp\simple turn based strategy game\single_player.cpp
+	"Single_player.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
